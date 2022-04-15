@@ -6,10 +6,7 @@
 
 <h2>Tecnologias</h2>
 
-<ul>
-  <li>HTML 5<li>
-  <li>CSS<li>
-</ul>
+<ul><li>HTML 5<li><li>CSS<li></ul>
 
 <h2>Ferramenta</h2>
 
