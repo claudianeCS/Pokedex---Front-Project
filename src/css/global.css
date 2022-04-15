@@ -1,0 +1,23 @@
+/*h2{      /* definindo estilos para as tags*/
+   /*     color: cornflowerblue;
+          font-size: 30px;
+} */
+/*usando div*/
+body {
+    font-family: 'Poppins', sans-serif;
+}
+main { /* altura minima da tela que o usuario ver*/
+    /* color: azure; cor de todo o texto que engloba o main */
+    min-height: 100vh;
+    background-color: #F0FFFF; /* cor de fundo*/
+    display: flex; /*todo o conteudo fica flexivel, e mais  facil de mexer*/
+    align-items: center; /*alinhado no centro verticalmente*/
+    justify-content: center; /*alinhado na horizontal*/
+
+}
+.pokedex { /*usando classes no css*/
+    background-color: #F0FFFF;
+    display: flex;
+    gap: 30px; /*Ver a definição do que?*/
+    padding: 30px 0;
+}
